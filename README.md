@@ -1,0 +1,2 @@
+# halad-adatb.
+munkabeosztás generálás
